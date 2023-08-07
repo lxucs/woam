@@ -1,0 +1,11 @@
+# torch==1.12.1
+transformers==4.19.3
+nltk
+tqdm
+pandas
+pyhocon
+ujson
+numpy
+scikit-learn
+plotly
+hdbscan
